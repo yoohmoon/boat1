@@ -38,4 +38,4 @@ class JuniorEngineer extends Worker {
 module.exports = {
   JuniorEngineer,
   Worker,
-}
+};
